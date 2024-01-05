@@ -1,0 +1,17 @@
+@using System.Collections.Generic;
+@using BOL;
+
+@{
+    ViewData["Title"] = "Product Catalog Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+   @{
+        List<Product> allProducts=(List<Product>)this.ViewData["allProducts"];
+        foreach( Product p in allProducts){
+            <p> @p.Title  @p.Description</p>
+        }
+   }
+   
+</div>

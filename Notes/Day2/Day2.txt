@@ -1,0 +1,51 @@
+
+csc.exe-------- C# compiler
+
+dotnet cli command
+
+dotnet new console -o TestApp
+donet new classlib -o SharedLib
+
+.java----javac.exe------.class (byte code)---------------JVM
+
+Multi language Support--- 25 lang.----------CLS
+
+System Software  ( device drivers, os)
+Application Software (notepad, paintbursh, word, browser, Web Server)
+
+
+.NET platform= CLR + CTS (CLS+ BCL) + 
+	       multiple .net complaint language compilers
+
+CLR
+CTS----------CLS + base Class Libraries (.dlls)
+
+(managed C++)--C++ compiler----dll
+J#
+F#			       .exe
+.vb-------vbc.exe--------.dll
+			 .exe
+.csc-----csc.exe--------.dll (class library) ( MSIL Code)---CLR
+			.exe (self executable file)
+
+
+
+
+.net solution
+		project (console)
+		project (console)
+		project (class library)
+
+1.Create a blank solution
+	dotnet new sln
+
+2.Create new console appliction project
+	dotnet new console -o TestApp
+
+3.Add project to existing solution
+	dotnet sln add \TestApp\TestApp.csproj
+4.Add CS files to project
+	create cs files
+	Write logic using C# Sytanx
+5.Build Solution
+6.Run Project.

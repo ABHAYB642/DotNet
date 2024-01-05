@@ -1,0 +1,27 @@
+
+.net cli commands
+(Command Line Interface)
+dotnet new console  ----project for creating console app (.exe file)
+dotnet new classlib--project for creating reusable library (.dll file)
+dotnet new webapp---project for web app with webpage(.cshtml)(razor pages)
+dotnet new mvc-----------------------project for web app using MVC
+dotnet new webapi--------------------project for restful web services
+
+dotnet build
+dotnet run
+
+dotnet new console -o StoreMgmtApp
+	
+	obj	
+	StoreMgmt.csproj
+	Program.cs------------------Entry Point Main Block Code
+		
+	bin
+	   Debug
+		.net8.0
+			output files
+				.exe-------------executable files of .net app
+				.dll
+				......
+
+

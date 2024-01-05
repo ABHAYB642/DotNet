@@ -1,0 +1,11 @@
+D:\Ravi\CDAC\PGDAC\IET\Sept23\Day4\GDILib\bin\Debug\net8.0\GDILib.deps.json
+D:\Ravi\CDAC\PGDAC\IET\Sept23\Day4\GDILib\bin\Debug\net8.0\GDILib.dll
+D:\Ravi\CDAC\PGDAC\IET\Sept23\Day4\GDILib\bin\Debug\net8.0\GDILib.pdb
+D:\Ravi\CDAC\PGDAC\IET\Sept23\Day4\GDILib\obj\Debug\net8.0\GDILib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ravi\CDAC\PGDAC\IET\Sept23\Day4\GDILib\obj\Debug\net8.0\GDILib.AssemblyInfoInputs.cache
+D:\Ravi\CDAC\PGDAC\IET\Sept23\Day4\GDILib\obj\Debug\net8.0\GDILib.AssemblyInfo.cs
+D:\Ravi\CDAC\PGDAC\IET\Sept23\Day4\GDILib\obj\Debug\net8.0\GDILib.csproj.CoreCompileInputs.cache
+D:\Ravi\CDAC\PGDAC\IET\Sept23\Day4\GDILib\obj\Debug\net8.0\GDILib.dll
+D:\Ravi\CDAC\PGDAC\IET\Sept23\Day4\GDILib\obj\Debug\net8.0\refint\GDILib.dll
+D:\Ravi\CDAC\PGDAC\IET\Sept23\Day4\GDILib\obj\Debug\net8.0\GDILib.pdb
+D:\Ravi\CDAC\PGDAC\IET\Sept23\Day4\GDILib\obj\Debug\net8.0\ref\GDILib.dll

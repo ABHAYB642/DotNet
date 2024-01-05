@@ -1,0 +1,14 @@
+D:\Ravi\CDAC\PGDAC\IET\Sept23\Day6\CSSolution\CSFeaturesApp\bin\Debug\net8.0\CSFeaturesApp.exe
+D:\Ravi\CDAC\PGDAC\IET\Sept23\Day6\CSSolution\CSFeaturesApp\bin\Debug\net8.0\CSFeaturesApp.deps.json
+D:\Ravi\CDAC\PGDAC\IET\Sept23\Day6\CSSolution\CSFeaturesApp\bin\Debug\net8.0\CSFeaturesApp.runtimeconfig.json
+D:\Ravi\CDAC\PGDAC\IET\Sept23\Day6\CSSolution\CSFeaturesApp\bin\Debug\net8.0\CSFeaturesApp.dll
+D:\Ravi\CDAC\PGDAC\IET\Sept23\Day6\CSSolution\CSFeaturesApp\bin\Debug\net8.0\CSFeaturesApp.pdb
+D:\Ravi\CDAC\PGDAC\IET\Sept23\Day6\CSSolution\CSFeaturesApp\obj\Debug\net8.0\CSFeaturesApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ravi\CDAC\PGDAC\IET\Sept23\Day6\CSSolution\CSFeaturesApp\obj\Debug\net8.0\CSFeaturesApp.AssemblyInfoInputs.cache
+D:\Ravi\CDAC\PGDAC\IET\Sept23\Day6\CSSolution\CSFeaturesApp\obj\Debug\net8.0\CSFeaturesApp.AssemblyInfo.cs
+D:\Ravi\CDAC\PGDAC\IET\Sept23\Day6\CSSolution\CSFeaturesApp\obj\Debug\net8.0\CSFeaturesApp.csproj.CoreCompileInputs.cache
+D:\Ravi\CDAC\PGDAC\IET\Sept23\Day6\CSSolution\CSFeaturesApp\obj\Debug\net8.0\CSFeaturesApp.dll
+D:\Ravi\CDAC\PGDAC\IET\Sept23\Day6\CSSolution\CSFeaturesApp\obj\Debug\net8.0\refint\CSFeaturesApp.dll
+D:\Ravi\CDAC\PGDAC\IET\Sept23\Day6\CSSolution\CSFeaturesApp\obj\Debug\net8.0\CSFeaturesApp.pdb
+D:\Ravi\CDAC\PGDAC\IET\Sept23\Day6\CSSolution\CSFeaturesApp\obj\Debug\net8.0\CSFeaturesApp.genruntimeconfig.cache
+D:\Ravi\CDAC\PGDAC\IET\Sept23\Day6\CSSolution\CSFeaturesApp\obj\Debug\net8.0\ref\CSFeaturesApp.dll

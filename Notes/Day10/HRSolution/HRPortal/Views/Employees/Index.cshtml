@@ -1,0 +1,19 @@
+﻿@using HRPortal.Models;
+
+@{
+    ViewData["Title"] = "Employees List Page";
+}
+
+<h1>Employees List</h1>
+<a href="/employees/insert">New Employee</a>
+<hr/>
+@{
+    List<Employee>employees=ViewData["employees"]as List<Employee>;
+        <ol>
+          @foreach( Employee emp in employees){
+            <li>
+                   @emp.Name   <a href="">Details</a>|<a href="">Edit</a>|<a href="">Delete</a>
+            </li>
+        }
+        </ol> 
+}

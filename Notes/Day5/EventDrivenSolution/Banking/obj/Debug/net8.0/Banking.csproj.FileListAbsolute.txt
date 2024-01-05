@@ -1,0 +1,11 @@
+D:\Ravi\CDAC\PGDAC\IET\Sept23\Day5\EventDrivenSolution\Banking\bin\Debug\net8.0\Banking.deps.json
+D:\Ravi\CDAC\PGDAC\IET\Sept23\Day5\EventDrivenSolution\Banking\bin\Debug\net8.0\Banking.dll
+D:\Ravi\CDAC\PGDAC\IET\Sept23\Day5\EventDrivenSolution\Banking\bin\Debug\net8.0\Banking.pdb
+D:\Ravi\CDAC\PGDAC\IET\Sept23\Day5\EventDrivenSolution\Banking\obj\Debug\net8.0\Banking.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ravi\CDAC\PGDAC\IET\Sept23\Day5\EventDrivenSolution\Banking\obj\Debug\net8.0\Banking.AssemblyInfoInputs.cache
+D:\Ravi\CDAC\PGDAC\IET\Sept23\Day5\EventDrivenSolution\Banking\obj\Debug\net8.0\Banking.AssemblyInfo.cs
+D:\Ravi\CDAC\PGDAC\IET\Sept23\Day5\EventDrivenSolution\Banking\obj\Debug\net8.0\Banking.csproj.CoreCompileInputs.cache
+D:\Ravi\CDAC\PGDAC\IET\Sept23\Day5\EventDrivenSolution\Banking\obj\Debug\net8.0\Banking.dll
+D:\Ravi\CDAC\PGDAC\IET\Sept23\Day5\EventDrivenSolution\Banking\obj\Debug\net8.0\refint\Banking.dll
+D:\Ravi\CDAC\PGDAC\IET\Sept23\Day5\EventDrivenSolution\Banking\obj\Debug\net8.0\Banking.pdb
+D:\Ravi\CDAC\PGDAC\IET\Sept23\Day5\EventDrivenSolution\Banking\obj\Debug\net8.0\ref\Banking.dll

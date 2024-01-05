@@ -1,0 +1,6 @@
+D:\Ravi\LocalRepo\.NET\Day16\AutomationTesting\TodaysTestingSolution\PrimeService.Tests\bin\Debug\net7.0\CoverletSourceRootsMapping
+D:\Ravi\LocalRepo\.NET\Day16\AutomationTesting\TodaysTestingSolution\PrimeService.Tests\obj\Debug\net7.0\PrimeService.Tests.csproj.AssemblyReference.cache
+D:\Ravi\LocalRepo\.NET\Day16\AutomationTesting\TodaysTestingSolution\PrimeService.Tests\obj\Debug\net7.0\PrimeService.Tests.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ravi\LocalRepo\.NET\Day16\AutomationTesting\TodaysTestingSolution\PrimeService.Tests\obj\Debug\net7.0\PrimeService.Tests.AssemblyInfoInputs.cache
+D:\Ravi\LocalRepo\.NET\Day16\AutomationTesting\TodaysTestingSolution\PrimeService.Tests\obj\Debug\net7.0\PrimeService.Tests.AssemblyInfo.cs
+D:\Ravi\LocalRepo\.NET\Day16\AutomationTesting\TodaysTestingSolution\PrimeService.Tests\obj\Debug\net7.0\PrimeService.Tests.csproj.CoreCompileInputs.cache

@@ -1,0 +1,21 @@
+@using HRPortal.Models;
+@{  
+   ViewBag.Title = "List"; 
+} 
+<h1>Empoyees List</h1> 
+
+<table> 
+   @foreach (var employee in Model) { 
+      <tr> 
+         <td>@employee.Name</td> 
+         
+         <td> 
+            <!--<a asp-controller = "Employees" asp-action = "Details"  asp-itemid = "@employee.Id">Details</a> 
+            <a asp-controller = "Employees" asp-action = "Edit"  asp-itemid = "@employee.Id">Edit</a> -->
+            <a href="/employees/Details/@employee.Id">Details</a>
+             <a href="/employees/Edit/@employee.Id">Edit</a>
+
+         </td> 
+      </tr> 
+   } 
+</table>

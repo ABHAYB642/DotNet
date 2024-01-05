@@ -1,0 +1,21 @@
+@page
+@using Catalog;
+<!-- Razor Syntax    --->
+@{
+    Product p1=new Product();
+    p1.Title="Jasmine";
+    p1.Description="Smelling Flower";
+    p1.UnitPrice=56;
+    p1.Quantity=7999;
+    p1.Imageurl="/images/jasmine.jpg";
+    
+     //Product p1=ViewData["flower"] as Product;
+}
+<h1>Product Catalog</h1>
+<hr/>
+<img src="/images/jasmine.jpg" width="100" height="100"/>
+<p>Title: @p1.Title</p>
+<p>Description:@p1.Description</p>
+<p>Unit Price: @p1.UnitPrice</p>
+<p>Quantity:@p1.Quantity</p>
+<button>Add to Cart</button>

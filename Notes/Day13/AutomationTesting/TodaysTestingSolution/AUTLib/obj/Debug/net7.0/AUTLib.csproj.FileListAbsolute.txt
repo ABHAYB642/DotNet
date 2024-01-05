@@ -1,0 +1,12 @@
+D:\Ravi\LocalRepo\.NET\Day16\AutomationTesting\TodaysTestingSolution\AUTLib\bin\Debug\net7.0\AUTLib.deps.json
+D:\Ravi\LocalRepo\.NET\Day16\AutomationTesting\TodaysTestingSolution\AUTLib\bin\Debug\net7.0\AUTLib.dll
+D:\Ravi\LocalRepo\.NET\Day16\AutomationTesting\TodaysTestingSolution\AUTLib\bin\Debug\net7.0\AUTLib.pdb
+D:\Ravi\LocalRepo\.NET\Day16\AutomationTesting\TodaysTestingSolution\AUTLib\obj\Debug\net7.0\AUTLib.csproj.AssemblyReference.cache
+D:\Ravi\LocalRepo\.NET\Day16\AutomationTesting\TodaysTestingSolution\AUTLib\obj\Debug\net7.0\AUTLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ravi\LocalRepo\.NET\Day16\AutomationTesting\TodaysTestingSolution\AUTLib\obj\Debug\net7.0\AUTLib.AssemblyInfoInputs.cache
+D:\Ravi\LocalRepo\.NET\Day16\AutomationTesting\TodaysTestingSolution\AUTLib\obj\Debug\net7.0\AUTLib.AssemblyInfo.cs
+D:\Ravi\LocalRepo\.NET\Day16\AutomationTesting\TodaysTestingSolution\AUTLib\obj\Debug\net7.0\AUTLib.csproj.CoreCompileInputs.cache
+D:\Ravi\LocalRepo\.NET\Day16\AutomationTesting\TodaysTestingSolution\AUTLib\obj\Debug\net7.0\AUTLib.dll
+D:\Ravi\LocalRepo\.NET\Day16\AutomationTesting\TodaysTestingSolution\AUTLib\obj\Debug\net7.0\refint\AUTLib.dll
+D:\Ravi\LocalRepo\.NET\Day16\AutomationTesting\TodaysTestingSolution\AUTLib\obj\Debug\net7.0\AUTLib.pdb
+D:\Ravi\LocalRepo\.NET\Day16\AutomationTesting\TodaysTestingSolution\AUTLib\obj\Debug\net7.0\ref\AUTLib.dll

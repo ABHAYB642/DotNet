@@ -1,0 +1,12 @@
+D:\Ravi\LocalRepo\.NET\Day16\IETTDDSolution\AuthLib\bin\Debug\net7.0\AuthLib.deps.json
+D:\Ravi\LocalRepo\.NET\Day16\IETTDDSolution\AuthLib\bin\Debug\net7.0\AuthLib.dll
+D:\Ravi\LocalRepo\.NET\Day16\IETTDDSolution\AuthLib\bin\Debug\net7.0\AuthLib.pdb
+D:\Ravi\LocalRepo\.NET\Day16\IETTDDSolution\AuthLib\obj\Debug\net7.0\AuthLib.csproj.AssemblyReference.cache
+D:\Ravi\LocalRepo\.NET\Day16\IETTDDSolution\AuthLib\obj\Debug\net7.0\AuthLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ravi\LocalRepo\.NET\Day16\IETTDDSolution\AuthLib\obj\Debug\net7.0\AuthLib.AssemblyInfoInputs.cache
+D:\Ravi\LocalRepo\.NET\Day16\IETTDDSolution\AuthLib\obj\Debug\net7.0\AuthLib.AssemblyInfo.cs
+D:\Ravi\LocalRepo\.NET\Day16\IETTDDSolution\AuthLib\obj\Debug\net7.0\AuthLib.csproj.CoreCompileInputs.cache
+D:\Ravi\LocalRepo\.NET\Day16\IETTDDSolution\AuthLib\obj\Debug\net7.0\AuthLib.dll
+D:\Ravi\LocalRepo\.NET\Day16\IETTDDSolution\AuthLib\obj\Debug\net7.0\refint\AuthLib.dll
+D:\Ravi\LocalRepo\.NET\Day16\IETTDDSolution\AuthLib\obj\Debug\net7.0\AuthLib.pdb
+D:\Ravi\LocalRepo\.NET\Day16\IETTDDSolution\AuthLib\obj\Debug\net7.0\ref\AuthLib.dll

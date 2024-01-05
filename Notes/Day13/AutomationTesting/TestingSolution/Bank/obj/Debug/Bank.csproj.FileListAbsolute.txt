@@ -1,0 +1,14 @@
+D:\TAP\DotnetSolutions\TestingSolution\Bank\bin\Debug\Bank.exe.config
+D:\TAP\DotnetSolutions\TestingSolution\Bank\bin\Debug\Bank.exe
+D:\TAP\DotnetSolutions\TestingSolution\Bank\bin\Debug\Bank.pdb
+D:\TAP\DotnetSolutions\TestingSolution\Bank\obj\Debug\Bank.csproj.CoreCompileInputs.cache
+D:\TAP\DotnetSolutions\TestingSolution\Bank\obj\Debug\Bank.exe
+D:\TAP\DotnetSolutions\TestingSolution\Bank\obj\Debug\Bank.pdb
+D:\Ravi\CDAC\ASDM\BKP\Day_10\AutomationTesting\latestTestingSolution\TestingSolution\TestingSolution\Bank\bin\Debug\Bank.exe.config
+D:\Ravi\CDAC\ASDM\BKP\Day_10\AutomationTesting\latestTestingSolution\TestingSolution\TestingSolution\Bank\bin\Debug\Bank.exe
+D:\Ravi\CDAC\ASDM\BKP\Day_10\AutomationTesting\latestTestingSolution\TestingSolution\TestingSolution\Bank\bin\Debug\Bank.pdb
+D:\Ravi\CDAC\ASDM\BKP\Day_10\AutomationTesting\latestTestingSolution\TestingSolution\TestingSolution\Bank\obj\Debug\Bank.csproj.AssemblyReference.cache
+D:\Ravi\CDAC\ASDM\BKP\Day_10\AutomationTesting\latestTestingSolution\TestingSolution\TestingSolution\Bank\obj\Debug\Bank.csproj.SuggestedBindingRedirects.cache
+D:\Ravi\CDAC\ASDM\BKP\Day_10\AutomationTesting\latestTestingSolution\TestingSolution\TestingSolution\Bank\obj\Debug\Bank.csproj.CoreCompileInputs.cache
+D:\Ravi\CDAC\ASDM\BKP\Day_10\AutomationTesting\latestTestingSolution\TestingSolution\TestingSolution\Bank\obj\Debug\Bank.exe
+D:\Ravi\CDAC\ASDM\BKP\Day_10\AutomationTesting\latestTestingSolution\TestingSolution\TestingSolution\Bank\obj\Debug\Bank.pdb

@@ -1,0 +1,17 @@
+D:\Ravi\CDAC\PGDAC\IET\Sept23\Day8\WebSolution\BLL\bin\Debug\net8.0\BLL.deps.json
+D:\Ravi\CDAC\PGDAC\IET\Sept23\Day8\WebSolution\BLL\bin\Debug\net8.0\BLL.dll
+D:\Ravi\CDAC\PGDAC\IET\Sept23\Day8\WebSolution\BLL\bin\Debug\net8.0\BLL.pdb
+D:\Ravi\CDAC\PGDAC\IET\Sept23\Day8\WebSolution\BLL\bin\Debug\net8.0\BOL.dll
+D:\Ravi\CDAC\PGDAC\IET\Sept23\Day8\WebSolution\BLL\bin\Debug\net8.0\DAL.dll
+D:\Ravi\CDAC\PGDAC\IET\Sept23\Day8\WebSolution\BLL\bin\Debug\net8.0\BOL.pdb
+D:\Ravi\CDAC\PGDAC\IET\Sept23\Day8\WebSolution\BLL\bin\Debug\net8.0\DAL.pdb
+D:\Ravi\CDAC\PGDAC\IET\Sept23\Day8\WebSolution\BLL\obj\Debug\net8.0\BLL.csproj.AssemblyReference.cache
+D:\Ravi\CDAC\PGDAC\IET\Sept23\Day8\WebSolution\BLL\obj\Debug\net8.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ravi\CDAC\PGDAC\IET\Sept23\Day8\WebSolution\BLL\obj\Debug\net8.0\BLL.AssemblyInfoInputs.cache
+D:\Ravi\CDAC\PGDAC\IET\Sept23\Day8\WebSolution\BLL\obj\Debug\net8.0\BLL.AssemblyInfo.cs
+D:\Ravi\CDAC\PGDAC\IET\Sept23\Day8\WebSolution\BLL\obj\Debug\net8.0\BLL.csproj.CoreCompileInputs.cache
+D:\Ravi\CDAC\PGDAC\IET\Sept23\Day8\WebSolution\BLL\obj\Debug\net8.0\BLL.csproj.CopyComplete
+D:\Ravi\CDAC\PGDAC\IET\Sept23\Day8\WebSolution\BLL\obj\Debug\net8.0\BLL.dll
+D:\Ravi\CDAC\PGDAC\IET\Sept23\Day8\WebSolution\BLL\obj\Debug\net8.0\refint\BLL.dll
+D:\Ravi\CDAC\PGDAC\IET\Sept23\Day8\WebSolution\BLL\obj\Debug\net8.0\BLL.pdb
+D:\Ravi\CDAC\PGDAC\IET\Sept23\Day8\WebSolution\BLL\obj\Debug\net8.0\ref\BLL.dll

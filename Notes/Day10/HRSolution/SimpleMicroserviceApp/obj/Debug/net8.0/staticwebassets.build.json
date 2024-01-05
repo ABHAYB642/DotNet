@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Gl+r/rr8pyshz15QqscKWS+t9LB1aAqkS9fexnPexaM=",
+  "Source": "SimpleMicroserviceApp",
+  "BasePath": "_content/SimpleMicroserviceApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

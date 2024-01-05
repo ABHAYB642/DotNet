@@ -1,0 +1,11 @@
+D:\Ravi\CDAC\PGDAC\IET\Sept23\Day15\TestSolution\PrimeService\bin\Debug\net8.0\PrimeService.deps.json
+D:\Ravi\CDAC\PGDAC\IET\Sept23\Day15\TestSolution\PrimeService\bin\Debug\net8.0\PrimeService.dll
+D:\Ravi\CDAC\PGDAC\IET\Sept23\Day15\TestSolution\PrimeService\bin\Debug\net8.0\PrimeService.pdb
+D:\Ravi\CDAC\PGDAC\IET\Sept23\Day15\TestSolution\PrimeService\obj\Debug\net8.0\PrimeService.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ravi\CDAC\PGDAC\IET\Sept23\Day15\TestSolution\PrimeService\obj\Debug\net8.0\PrimeService.AssemblyInfoInputs.cache
+D:\Ravi\CDAC\PGDAC\IET\Sept23\Day15\TestSolution\PrimeService\obj\Debug\net8.0\PrimeService.AssemblyInfo.cs
+D:\Ravi\CDAC\PGDAC\IET\Sept23\Day15\TestSolution\PrimeService\obj\Debug\net8.0\PrimeService.csproj.CoreCompileInputs.cache
+D:\Ravi\CDAC\PGDAC\IET\Sept23\Day15\TestSolution\PrimeService\obj\Debug\net8.0\PrimeService.dll
+D:\Ravi\CDAC\PGDAC\IET\Sept23\Day15\TestSolution\PrimeService\obj\Debug\net8.0\refint\PrimeService.dll
+D:\Ravi\CDAC\PGDAC\IET\Sept23\Day15\TestSolution\PrimeService\obj\Debug\net8.0\PrimeService.pdb
+D:\Ravi\CDAC\PGDAC\IET\Sept23\Day15\TestSolution\PrimeService\obj\Debug\net8.0\ref\PrimeService.dll

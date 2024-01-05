@@ -1,0 +1,18 @@
+﻿
+@page
+@using HR;
+@model IndexModel
+@{
+    
+    int count=56;
+    count++;
+    Person prn=new Person();
+    prn.FirstName="Shiv";
+    prn.LastName="Khera";
+    ViewData["Title"] = "Welcome to Transflower";
+}
+
+<div class="text-center">
+    <h1 class="display-4"> @prn.FirstName   @prn.LastName</h1>
+    <img src="/images/friends.jpg" width="200" height="200"/>
+</div>
