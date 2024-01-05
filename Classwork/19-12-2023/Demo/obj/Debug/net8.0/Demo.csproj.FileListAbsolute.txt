@@ -1,0 +1,15 @@
+C:\Users\IET\Desktop\Github\IET_Buddies\DotNet\Classwork\Demo\bin\Debug\net8.0\Demo.exe
+C:\Users\IET\Desktop\Github\IET_Buddies\DotNet\Classwork\Demo\bin\Debug\net8.0\Demo.deps.json
+C:\Users\IET\Desktop\Github\IET_Buddies\DotNet\Classwork\Demo\bin\Debug\net8.0\Demo.runtimeconfig.json
+C:\Users\IET\Desktop\Github\IET_Buddies\DotNet\Classwork\Demo\bin\Debug\net8.0\Demo.dll
+C:\Users\IET\Desktop\Github\IET_Buddies\DotNet\Classwork\Demo\bin\Debug\net8.0\Demo.pdb
+C:\Users\IET\Desktop\Github\IET_Buddies\DotNet\Classwork\Demo\obj\Debug\net8.0\Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\Github\IET_Buddies\DotNet\Classwork\Demo\obj\Debug\net8.0\Demo.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\Github\IET_Buddies\DotNet\Classwork\Demo\obj\Debug\net8.0\Demo.AssemblyInfo.cs
+C:\Users\IET\Desktop\Github\IET_Buddies\DotNet\Classwork\Demo\obj\Debug\net8.0\Demo.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\Github\IET_Buddies\DotNet\Classwork\Demo\obj\Debug\net8.0\Demo.sourcelink.json
+C:\Users\IET\Desktop\Github\IET_Buddies\DotNet\Classwork\Demo\obj\Debug\net8.0\Demo.dll
+C:\Users\IET\Desktop\Github\IET_Buddies\DotNet\Classwork\Demo\obj\Debug\net8.0\refint\Demo.dll
+C:\Users\IET\Desktop\Github\IET_Buddies\DotNet\Classwork\Demo\obj\Debug\net8.0\Demo.pdb
+C:\Users\IET\Desktop\Github\IET_Buddies\DotNet\Classwork\Demo\obj\Debug\net8.0\Demo.genruntimeconfig.cache
+C:\Users\IET\Desktop\Github\IET_Buddies\DotNet\Classwork\Demo\obj\Debug\net8.0\ref\Demo.dll

@@ -1,0 +1,28 @@
+@using System.Collections.Generic;
+@using BOL;
+@{
+    List<Student> list=ViewData["liststudent"] as List<Student>;
+}
+<table>
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Hobby</th>
+            <th>Edit</th>
+            <th>Delete</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var student in list)
+        {
+            <tr>
+                <td>@student.Id</td>
+                <td>@student.Name</td>
+                <td>@student.Hobby</td>
+                <td><a href="edit/@student.Id">Edit</a></td>
+                <td><a href="delete/@student.Id">Delete</a></td>
+            </tr>
+        }
+    </tbody>
+</table>

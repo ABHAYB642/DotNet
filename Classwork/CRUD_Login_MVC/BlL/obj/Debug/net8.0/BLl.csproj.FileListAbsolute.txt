@@ -1,0 +1,17 @@
+C:\Dotnet Practice\AllPractice\BLL\bin\Debug\net8.0\BLl.deps.json
+C:\Dotnet Practice\AllPractice\bll\bin\Debug\net8.0\BLl.dll
+C:\Dotnet Practice\AllPractice\bll\bin\Debug\net8.0\BLl.pdb
+C:\Dotnet Practice\AllPractice\bll\bin\Debug\net8.0\bol.dll
+C:\Dotnet Practice\AllPractice\bll\bin\Debug\net8.0\DAl.dll
+C:\Dotnet Practice\AllPractice\bll\bin\Debug\net8.0\bol.pdb
+C:\Dotnet Practice\AllPractice\bll\bin\Debug\net8.0\DAl.pdb
+C:\Dotnet Practice\AllPractice\bll\obj\Debug\net8.0\BLl.csproj.AssemblyReference.cache
+C:\Dotnet Practice\AllPractice\bll\obj\Debug\net8.0\BLl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dotnet Practice\AllPractice\bll\obj\Debug\net8.0\BLl.AssemblyInfoInputs.cache
+C:\Dotnet Practice\AllPractice\bll\obj\Debug\net8.0\BLl.AssemblyInfo.cs
+C:\Dotnet Practice\AllPractice\bll\obj\Debug\net8.0\BLl.csproj.CoreCompileInputs.cache
+C:\Dotnet Practice\AllPractice\BLL\obj\Debug\net8.0\BLl.csproj.CopyComplete
+C:\Dotnet Practice\AllPractice\bll\obj\Debug\net8.0\BLl.dll
+C:\Dotnet Practice\AllPractice\bll\obj\Debug\net8.0\refint\BLl.dll
+C:\Dotnet Practice\AllPractice\bll\obj\Debug\net8.0\BLl.pdb
+C:\Dotnet Practice\AllPractice\BLL\obj\Debug\net8.0\ref\BLl.dll

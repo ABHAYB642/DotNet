@@ -1,0 +1,89 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\My Github Repositories\\DotNet\\Classwork\\21-12-2023\\MyMVCapp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MyMVCapp.bundle.scp.css",
+      "PackagePath": "staticwebassets\\MyMVCapp.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\My Github Repositories\\DotNet\\Classwork\\21-12-2023\\MyMVCapp\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\My Github Repositories\\DotNet\\Classwork\\21-12-2023\\MyMVCapp\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\My Github Repositories\\DotNet\\Classwork\\21-12-2023\\MyMVCapp\\wwwroot\\images\\jasmine.jpg",
+      "PackagePath": "staticwebassets\\images\\jasmine.jpg"
+    },
+    {
+      "Id": "C:\\My Github Repositories\\DotNet\\Classwork\\21-12-2023\\MyMVCapp\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\My Github Repositories\\DotNet\\Classwork\\21-12-2023\\MyMVCapp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\My Github Repositories\\DotNet\\Classwork\\21-12-2023\\MyMVCapp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\My Github Repositories\\DotNet\\Classwork\\21-12-2023\\MyMVCapp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\My Github Repositories\\DotNet\\Classwork\\21-12-2023\\MyMVCapp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\My Github Repositories\\DotNet\\Classwork\\21-12-2023\\MyMVCapp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\My Github Repositories\\DotNet\\Classwork\\21-12-2023\\MyMVCapp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\My Github Repositories\\DotNet\\Classwork\\21-12-2023\\MyMVCapp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\My Github Repositories\\DotNet\\Classwork\\21-12-2023\\MyMVCapp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\My Github Repositories\\DotNet\\Classwork\\21-12-2023\\MyMVCapp\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\My Github Repositories\\DotNet\\Classwork\\21-12-2023\\MyMVCapp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\My Github Repositories\\DotNet\\Classwork\\21-12-2023\\MyMVCapp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\My Github Repositories\\DotNet\\Classwork\\21-12-2023\\MyMVCapp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MyMVCapp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.MyMVCapp.props",
+      "PackagePath": "build\\MyMVCapp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.MyMVCapp.props",
+      "PackagePath": "buildMultiTargeting\\MyMVCapp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.MyMVCapp.props",
+      "PackagePath": "buildTransitive\\MyMVCapp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

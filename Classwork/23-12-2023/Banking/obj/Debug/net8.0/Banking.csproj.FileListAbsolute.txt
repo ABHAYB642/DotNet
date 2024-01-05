@@ -1,0 +1,12 @@
+C:\Users\IET\Desktop\Github\IET_Buddies\DotNet\Classwork\Day 5\Banking\bin\Debug\net8.0\Banking.deps.json
+C:\Users\IET\Desktop\Github\IET_Buddies\DotNet\Classwork\Day 5\Banking\bin\Debug\net8.0\Banking.dll
+C:\Users\IET\Desktop\Github\IET_Buddies\DotNet\Classwork\Day 5\Banking\bin\Debug\net8.0\Banking.pdb
+C:\Users\IET\Desktop\Github\IET_Buddies\DotNet\Classwork\Day 5\Banking\obj\Debug\net8.0\Banking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\Github\IET_Buddies\DotNet\Classwork\Day 5\Banking\obj\Debug\net8.0\Banking.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\Github\IET_Buddies\DotNet\Classwork\Day 5\Banking\obj\Debug\net8.0\Banking.AssemblyInfo.cs
+C:\Users\IET\Desktop\Github\IET_Buddies\DotNet\Classwork\Day 5\Banking\obj\Debug\net8.0\Banking.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\Github\IET_Buddies\DotNet\Classwork\Day 5\Banking\obj\Debug\net8.0\Banking.sourcelink.json
+C:\Users\IET\Desktop\Github\IET_Buddies\DotNet\Classwork\Day 5\Banking\obj\Debug\net8.0\Banking.dll
+C:\Users\IET\Desktop\Github\IET_Buddies\DotNet\Classwork\Day 5\Banking\obj\Debug\net8.0\refint\Banking.dll
+C:\Users\IET\Desktop\Github\IET_Buddies\DotNet\Classwork\Day 5\Banking\obj\Debug\net8.0\Banking.pdb
+C:\Users\IET\Desktop\Github\IET_Buddies\DotNet\Classwork\Day 5\Banking\obj\Debug\net8.0\ref\Banking.dll

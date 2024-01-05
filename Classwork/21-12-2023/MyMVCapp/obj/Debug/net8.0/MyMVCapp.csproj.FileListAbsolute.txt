@@ -1,0 +1,61 @@
+C:\Users\IET\Desktop\Github\IET_Buddies\DotNet\Classwork\Day 2\MyMVCapp\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\IET\Desktop\Github\IET_Buddies\DotNet\Classwork\Day 2\MyMVCapp\bin\Debug\net8.0\appsettings.json
+C:\Users\IET\Desktop\Github\IET_Buddies\DotNet\Classwork\Day 2\MyMVCapp\bin\Debug\net8.0\MyMVCapp.staticwebassets.runtime.json
+C:\Users\IET\Desktop\Github\IET_Buddies\DotNet\Classwork\Day 2\MyMVCapp\bin\Debug\net8.0\MyMVCapp.exe
+C:\Users\IET\Desktop\Github\IET_Buddies\DotNet\Classwork\Day 2\MyMVCapp\bin\Debug\net8.0\MyMVCapp.deps.json
+C:\Users\IET\Desktop\Github\IET_Buddies\DotNet\Classwork\Day 2\MyMVCapp\bin\Debug\net8.0\MyMVCapp.runtimeconfig.json
+C:\Users\IET\Desktop\Github\IET_Buddies\DotNet\Classwork\Day 2\MyMVCapp\bin\Debug\net8.0\MyMVCapp.dll
+C:\Users\IET\Desktop\Github\IET_Buddies\DotNet\Classwork\Day 2\MyMVCapp\bin\Debug\net8.0\MyMVCapp.pdb
+C:\Users\IET\Desktop\Github\IET_Buddies\DotNet\Classwork\Day 2\MyMVCapp\obj\Debug\net8.0\MyMVCapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\Github\IET_Buddies\DotNet\Classwork\Day 2\MyMVCapp\obj\Debug\net8.0\MyMVCapp.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\Github\IET_Buddies\DotNet\Classwork\Day 2\MyMVCapp\obj\Debug\net8.0\MyMVCapp.AssemblyInfo.cs
+C:\Users\IET\Desktop\Github\IET_Buddies\DotNet\Classwork\Day 2\MyMVCapp\obj\Debug\net8.0\MyMVCapp.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\Github\IET_Buddies\DotNet\Classwork\Day 2\MyMVCapp\obj\Debug\net8.0\MyMVCapp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\IET\Desktop\Github\IET_Buddies\DotNet\Classwork\Day 2\MyMVCapp\obj\Debug\net8.0\MyMVCapp.RazorAssemblyInfo.cache
+C:\Users\IET\Desktop\Github\IET_Buddies\DotNet\Classwork\Day 2\MyMVCapp\obj\Debug\net8.0\MyMVCapp.RazorAssemblyInfo.cs
+C:\Users\IET\Desktop\Github\IET_Buddies\DotNet\Classwork\Day 2\MyMVCapp\obj\Debug\net8.0\MyMVCapp.sourcelink.json
+C:\Users\IET\Desktop\Github\IET_Buddies\DotNet\Classwork\Day 2\MyMVCapp\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\IET\Desktop\Github\IET_Buddies\DotNet\Classwork\Day 2\MyMVCapp\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\IET\Desktop\Github\IET_Buddies\DotNet\Classwork\Day 2\MyMVCapp\obj\Debug\net8.0\staticwebassets\msbuild.MyMVCapp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\IET\Desktop\Github\IET_Buddies\DotNet\Classwork\Day 2\MyMVCapp\obj\Debug\net8.0\staticwebassets\msbuild.build.MyMVCapp.props
+C:\Users\IET\Desktop\Github\IET_Buddies\DotNet\Classwork\Day 2\MyMVCapp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MyMVCapp.props
+C:\Users\IET\Desktop\Github\IET_Buddies\DotNet\Classwork\Day 2\MyMVCapp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MyMVCapp.props
+C:\Users\IET\Desktop\Github\IET_Buddies\DotNet\Classwork\Day 2\MyMVCapp\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\IET\Desktop\Github\IET_Buddies\DotNet\Classwork\Day 2\MyMVCapp\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\IET\Desktop\Github\IET_Buddies\DotNet\Classwork\Day 2\MyMVCapp\obj\Debug\net8.0\scopedcss\bundle\MyMVCapp.styles.css
+C:\Users\IET\Desktop\Github\IET_Buddies\DotNet\Classwork\Day 2\MyMVCapp\obj\Debug\net8.0\scopedcss\projectbundle\MyMVCapp.bundle.scp.css
+C:\Users\IET\Desktop\Github\IET_Buddies\DotNet\Classwork\Day 2\MyMVCapp\obj\Debug\net8.0\MyMVCapp.dll
+C:\Users\IET\Desktop\Github\IET_Buddies\DotNet\Classwork\Day 2\MyMVCapp\obj\Debug\net8.0\refint\MyMVCapp.dll
+C:\Users\IET\Desktop\Github\IET_Buddies\DotNet\Classwork\Day 2\MyMVCapp\obj\Debug\net8.0\MyMVCapp.pdb
+C:\Users\IET\Desktop\Github\IET_Buddies\DotNet\Classwork\Day 2\MyMVCapp\obj\Debug\net8.0\MyMVCapp.genruntimeconfig.cache
+C:\Users\IET\Desktop\Github\IET_Buddies\DotNet\Classwork\Day 2\MyMVCapp\obj\Debug\net8.0\ref\MyMVCapp.dll
+C:\My Github Repositories\DotNet\Classwork\21-12-2023\MyMVCapp\bin\Debug\net8.0\appsettings.Development.json
+C:\My Github Repositories\DotNet\Classwork\21-12-2023\MyMVCapp\bin\Debug\net8.0\appsettings.json
+C:\My Github Repositories\DotNet\Classwork\21-12-2023\MyMVCapp\bin\Debug\net8.0\MyMVCapp.staticwebassets.runtime.json
+C:\My Github Repositories\DotNet\Classwork\21-12-2023\MyMVCapp\bin\Debug\net8.0\MyMVCapp.exe
+C:\My Github Repositories\DotNet\Classwork\21-12-2023\MyMVCapp\bin\Debug\net8.0\MyMVCapp.deps.json
+C:\My Github Repositories\DotNet\Classwork\21-12-2023\MyMVCapp\bin\Debug\net8.0\MyMVCapp.runtimeconfig.json
+C:\My Github Repositories\DotNet\Classwork\21-12-2023\MyMVCapp\bin\Debug\net8.0\MyMVCapp.dll
+C:\My Github Repositories\DotNet\Classwork\21-12-2023\MyMVCapp\bin\Debug\net8.0\MyMVCapp.pdb
+C:\My Github Repositories\DotNet\Classwork\21-12-2023\MyMVCapp\obj\Debug\net8.0\MyMVCapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\My Github Repositories\DotNet\Classwork\21-12-2023\MyMVCapp\obj\Debug\net8.0\MyMVCapp.AssemblyInfoInputs.cache
+C:\My Github Repositories\DotNet\Classwork\21-12-2023\MyMVCapp\obj\Debug\net8.0\MyMVCapp.AssemblyInfo.cs
+C:\My Github Repositories\DotNet\Classwork\21-12-2023\MyMVCapp\obj\Debug\net8.0\MyMVCapp.csproj.CoreCompileInputs.cache
+C:\My Github Repositories\DotNet\Classwork\21-12-2023\MyMVCapp\obj\Debug\net8.0\MyMVCapp.MvcApplicationPartsAssemblyInfo.cache
+C:\My Github Repositories\DotNet\Classwork\21-12-2023\MyMVCapp\obj\Debug\net8.0\MyMVCapp.RazorAssemblyInfo.cache
+C:\My Github Repositories\DotNet\Classwork\21-12-2023\MyMVCapp\obj\Debug\net8.0\MyMVCapp.RazorAssemblyInfo.cs
+C:\My Github Repositories\DotNet\Classwork\21-12-2023\MyMVCapp\obj\Debug\net8.0\staticwebassets.build.json
+C:\My Github Repositories\DotNet\Classwork\21-12-2023\MyMVCapp\obj\Debug\net8.0\staticwebassets.development.json
+C:\My Github Repositories\DotNet\Classwork\21-12-2023\MyMVCapp\obj\Debug\net8.0\staticwebassets\msbuild.MyMVCapp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\My Github Repositories\DotNet\Classwork\21-12-2023\MyMVCapp\obj\Debug\net8.0\staticwebassets\msbuild.build.MyMVCapp.props
+C:\My Github Repositories\DotNet\Classwork\21-12-2023\MyMVCapp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MyMVCapp.props
+C:\My Github Repositories\DotNet\Classwork\21-12-2023\MyMVCapp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MyMVCapp.props
+C:\My Github Repositories\DotNet\Classwork\21-12-2023\MyMVCapp\obj\Debug\net8.0\staticwebassets.pack.json
+C:\My Github Repositories\DotNet\Classwork\21-12-2023\MyMVCapp\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\My Github Repositories\DotNet\Classwork\21-12-2023\MyMVCapp\obj\Debug\net8.0\scopedcss\bundle\MyMVCapp.styles.css
+C:\My Github Repositories\DotNet\Classwork\21-12-2023\MyMVCapp\obj\Debug\net8.0\scopedcss\projectbundle\MyMVCapp.bundle.scp.css
+C:\My Github Repositories\DotNet\Classwork\21-12-2023\MyMVCapp\obj\Debug\net8.0\MyMVCapp.dll
+C:\My Github Repositories\DotNet\Classwork\21-12-2023\MyMVCapp\obj\Debug\net8.0\refint\MyMVCapp.dll
+C:\My Github Repositories\DotNet\Classwork\21-12-2023\MyMVCapp\obj\Debug\net8.0\MyMVCapp.pdb
+C:\My Github Repositories\DotNet\Classwork\21-12-2023\MyMVCapp\obj\Debug\net8.0\MyMVCapp.genruntimeconfig.cache
+C:\My Github Repositories\DotNet\Classwork\21-12-2023\MyMVCapp\obj\Debug\net8.0\ref\MyMVCapp.dll

@@ -1,0 +1,9 @@
+@using System.Collections.Generic;
+@using BOL;
+
+  @{
+    List<Product> allproduct=ViewData["AllProduct"] as List<Product>;
+        foreach(Product p in allproduct){
+            <p>@p.id @p.name @p.qty @p.Price</p>
+        }
+  }

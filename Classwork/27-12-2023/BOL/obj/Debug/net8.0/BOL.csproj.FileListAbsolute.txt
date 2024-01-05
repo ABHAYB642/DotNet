@@ -1,0 +1,12 @@
+C:\Users\IET\Desktop\Github\IET_Buddies\DotNet\Classwork\Day8\BOL\bin\Debug\net8.0\BOL.deps.json
+C:\Users\IET\Desktop\Github\IET_Buddies\DotNet\Classwork\Day8\BOL\bin\Debug\net8.0\BOL.dll
+C:\Users\IET\Desktop\Github\IET_Buddies\DotNet\Classwork\Day8\BOL\bin\Debug\net8.0\BOL.pdb
+C:\Users\IET\Desktop\Github\IET_Buddies\DotNet\Classwork\Day8\BOL\obj\Debug\net8.0\BOL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\Github\IET_Buddies\DotNet\Classwork\Day8\BOL\obj\Debug\net8.0\BOL.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\Github\IET_Buddies\DotNet\Classwork\Day8\BOL\obj\Debug\net8.0\BOL.AssemblyInfo.cs
+C:\Users\IET\Desktop\Github\IET_Buddies\DotNet\Classwork\Day8\BOL\obj\Debug\net8.0\BOL.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\Github\IET_Buddies\DotNet\Classwork\Day8\BOL\obj\Debug\net8.0\BOL.sourcelink.json
+C:\Users\IET\Desktop\Github\IET_Buddies\DotNet\Classwork\Day8\BOL\obj\Debug\net8.0\BOL.dll
+C:\Users\IET\Desktop\Github\IET_Buddies\DotNet\Classwork\Day8\BOL\obj\Debug\net8.0\refint\BOL.dll
+C:\Users\IET\Desktop\Github\IET_Buddies\DotNet\Classwork\Day8\BOL\obj\Debug\net8.0\BOL.pdb
+C:\Users\IET\Desktop\Github\IET_Buddies\DotNet\Classwork\Day8\BOL\obj\Debug\net8.0\ref\BOL.dll

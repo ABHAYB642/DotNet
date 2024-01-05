@@ -1,0 +1,16 @@
+C:\Users\IET\Desktop\Github\IET_Buddies\DotNet\Classwork\Day8\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+C:\Users\IET\Desktop\Github\IET_Buddies\DotNet\Classwork\Day8\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\Github\IET_Buddies\DotNet\Classwork\Day8\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\Github\IET_Buddies\DotNet\Classwork\Day8\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+C:\Users\IET\Desktop\Github\IET_Buddies\DotNet\Classwork\Day8\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\Github\IET_Buddies\DotNet\Classwork\Day8\DAL\obj\Debug\net8.0\DAL.sourcelink.json
+C:\Users\IET\Desktop\Github\IET_Buddies\DotNet\Classwork\Day8\DAL\bin\Debug\net8.0\DAL.deps.json
+C:\Users\IET\Desktop\Github\IET_Buddies\DotNet\Classwork\Day8\DAL\bin\Debug\net8.0\DAL.dll
+C:\Users\IET\Desktop\Github\IET_Buddies\DotNet\Classwork\Day8\DAL\bin\Debug\net8.0\DAL.pdb
+C:\Users\IET\Desktop\Github\IET_Buddies\DotNet\Classwork\Day8\DAL\obj\Debug\net8.0\DAL.dll
+C:\Users\IET\Desktop\Github\IET_Buddies\DotNet\Classwork\Day8\DAL\obj\Debug\net8.0\refint\DAL.dll
+C:\Users\IET\Desktop\Github\IET_Buddies\DotNet\Classwork\Day8\DAL\obj\Debug\net8.0\DAL.pdb
+C:\Users\IET\Desktop\Github\IET_Buddies\DotNet\Classwork\Day8\DAL\obj\Debug\net8.0\ref\DAL.dll
+C:\Users\IET\Desktop\Github\IET_Buddies\DotNet\Classwork\Day8\DAL\bin\Debug\net8.0\BOL.dll
+C:\Users\IET\Desktop\Github\IET_Buddies\DotNet\Classwork\Day8\DAL\bin\Debug\net8.0\BOL.pdb
+C:\Users\IET\Desktop\Github\IET_Buddies\DotNet\Classwork\Day8\DAL\obj\Debug\net8.0\DAL.csproj.CopyComplete

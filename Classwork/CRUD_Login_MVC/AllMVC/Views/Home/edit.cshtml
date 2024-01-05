@@ -1,0 +1,12 @@
+@using System.Collections.Generic;
+@using BOL;
+@{
+    Student s=ViewData["Studentinfo"] as Student;
+}
+<h2>Edit Student Details</h2>
+<form method="post">
+ID:<input type="text" value=@s.Id name="id" readonly/><br><br>
+Name:<input type="text" value=@s.Name name="name"/><br><br>
+Hobby:<input type="text" value=@s.Hobby name="hobby"/><br><br>
+<button>Update</button>
+</form>

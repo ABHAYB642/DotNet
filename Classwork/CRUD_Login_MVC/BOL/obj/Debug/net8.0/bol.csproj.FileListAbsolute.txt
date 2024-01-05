@@ -1,0 +1,11 @@
+C:\Dotnet Practice\AllPractice\bol\bin\Debug\net8.0\bol.deps.json
+C:\Dotnet Practice\AllPractice\bol\bin\Debug\net8.0\bol.dll
+C:\Dotnet Practice\AllPractice\bol\bin\Debug\net8.0\bol.pdb
+C:\Dotnet Practice\AllPractice\bol\obj\Debug\net8.0\bol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dotnet Practice\AllPractice\bol\obj\Debug\net8.0\bol.AssemblyInfoInputs.cache
+C:\Dotnet Practice\AllPractice\bol\obj\Debug\net8.0\bol.AssemblyInfo.cs
+C:\Dotnet Practice\AllPractice\bol\obj\Debug\net8.0\bol.csproj.CoreCompileInputs.cache
+C:\Dotnet Practice\AllPractice\bol\obj\Debug\net8.0\bol.dll
+C:\Dotnet Practice\AllPractice\bol\obj\Debug\net8.0\refint\bol.dll
+C:\Dotnet Practice\AllPractice\bol\obj\Debug\net8.0\bol.pdb
+C:\Dotnet Practice\AllPractice\bol\obj\Debug\net8.0\ref\bol.dll
